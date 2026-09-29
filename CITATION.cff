@@ -1,0 +1,10 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+title: "Cross-Location Sibling Learning for Multimodal Product Demand Forecasting"
+authors:
+  - family-names: Bhardwaj
+    given-names: Om Prakash
+version: 0.3.0
+date-released: 2026-09-29
+license: MIT
+repository-code: "https://github.com/ombdj1209/mtft-cross-location-siblings"
